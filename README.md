@@ -254,47 +254,7 @@ Nenu try chesina Regolith Almond Vitamin-E Body Lotion na skin ni soft ga, smoot
 * Consumer Psychology
 * Conversion-Based Advertising
 
----
-
-# Repository Structure
-
-future-interns-ugc-ad-content/
-
-├── README.md
-
-├── prompts/
-
-│ ├── master_prompt.txt
-
-│ ├── hook_generator.txt
-
-│ └── ugc_script_prompt.txt
-
-├── outputs/
-
-│ ├── hooks.md
-
-│ ├── ad_script.md
-
-│ ├── cta_variations.md
-
-│ └── captions.md
-
-├── assets/
-
-│ ├── product_image.jpg
-
-│ ├── model_image.jpg
-
-│ └── final_video.mp4
-
-└── report/
-
-```
-└── task_report.pdf
-```
-
----
+---------------------------------
 
 # Conclusion
 
