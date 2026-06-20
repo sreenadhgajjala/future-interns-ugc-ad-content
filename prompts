@@ -12,3 +12,42 @@ Natural, conversational, trustworthy, customer testimonial style.
 
 Output:
 Hooks, UGC script, CTA, captions.
+
+
+prompts/hook_generator.txt
+
+
+Generate 10 high-converting UGC ad hooks for a skincare product.
+
+Product:
+Regolith Almond Vitamin-E Body Lotion
+
+Requirements:
+- Emotional hooks
+- Curiosity hooks
+- Problem-based hooks
+- Before/After hooks
+- Conversational Telugu-English style
+
+Output:
+Short hooks under 10 seconds.
+
+
+
+prompts/ugc_script_prompt.txt
+
+
+Generate a 30-second UGC ad script for Regolith Almond Vitamin-E Body Lotion.
+
+Framework:
+Problem → Solution → Result → CTA
+
+Requirements:
+- Customer testimonial
+- Natural dialogue
+- Telugu-English language
+- Instagram Reels style
+- Emotional storytelling
+
+Output:
+Scene-wise script with dialogue.
