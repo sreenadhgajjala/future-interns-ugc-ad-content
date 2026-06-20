@@ -303,3 +303,8 @@ This project demonstrates how AI-powered prompt engineering can be used to creat
 
 
 Thank You.
+
+
+<img width="410" height="512" alt="image_9e9467" src="https://github.com/user-attachments/assets/c45662ba-8f62-4015-93f0-79dd20dbb449" />
+<img width="230" height="512" alt="image_9e9eeb" src="https://github.com/user-attachments/assets/c8a28490-7414-4fe0-aebf-62b0b04f2be3" />
+
